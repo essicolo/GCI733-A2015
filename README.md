@@ -3,4 +3,4 @@ Feuilles de calcul pour le cours GCI733 - Géotechnique environnementale, automn
 
 Utiliser les feuilles de calcul sur mybinder:
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/sergeetiparent/GCI733-A2015)
+ [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/essicolo/GCI733-A2015) 
